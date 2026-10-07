@@ -15,6 +15,8 @@ What I bring: I'm on the floor, not in the office. I fix the cause, not just the
 If you're hiring, or you know someone who is, a message or a share means a lot. My inbox is open.
 
 ## 2026-10-09 | Fri | First 90 days
+Image: https://raw.githubusercontent.com/insync1234-droid/pulse-pipeline/claude/linkedin-agent-skill-setup-mqy0lg/content/images/2026-10-09-first-90-days.png
+
 If I started as an Operations Manager on a Monday, here's what my first 90 days would look like.
 
 Days 1 to 30: listen. Work every shift at least once, including nights. Ask each supervisor 3 questions. What slows you down? What would you fix first? What should I leave alone? Change nothing big.
@@ -43,6 +45,8 @@ Cutting overtime by memo just pushes the mess somewhere else. Finding where it s
 What's the most common overtime cause you've seen?
 
 ## 2026-10-13 | Tue | Labour cost
+Image: https://raw.githubusercontent.com/insync1234-droid/pulse-pipeline/claude/linkedin-agent-skill-setup-mqy0lg/content/images/2026-10-13-labour-cost.png
+
 You can cut labour cost without cutting a single person. I mean that.
 
 Most of the waste isn't in headcount, no matter what the spreadsheet in the Monday meeting seems to say when someone circles the payroll line in red. It's in the hours people spend waiting, walking and redoing work.
@@ -58,6 +62,8 @@ Fix those 3 and cost per unit drops while the crew stays the same size. People a
 Where does the hidden labour go in your building?
 
 ## 2026-10-14 | Wed | Leading indicators
+Image: https://raw.githubusercontent.com/insync1234-droid/pulse-pipeline/claude/linkedin-agent-skill-setup-mqy0lg/content/images/2026-10-14-leading-indicators.png
+
 A site in Hamilton or Brantford can go 300 days without a lost-time injury and still be unsafe.
 
 Lost-time injuries are a lagging number. By the time that number moves, someone has already gone home hurt, and you're filling out a WSIB form instead of preventing the next one.
@@ -92,6 +98,8 @@ Most grievances don't start with a contract violation. They start with someone f
 What has helped labour relations most at your site?
 
 ## 2026-10-16 | Fri | Stay interviews
+Image: https://raw.githubusercontent.com/insync1234-droid/pulse-pipeline/claude/linkedin-agent-skill-setup-mqy0lg/content/images/2026-10-16-stay-interviews.png
+
 Exit interviews tell you why people left. Too late.
 
 I'd rather run stay interviews. 15 minutes, once a year, with everyone on the crew, starting with the people you most want to keep.
@@ -133,6 +141,8 @@ Then the hard part: check it next Friday, and the Friday after. The first sort i
 Where's the messiest station in your building, honestly?
 
 ## 2026-10-21 | Wed | Bottleneck
+Image: https://raw.githubusercontent.com/insync1234-droid/pulse-pipeline/claude/linkedin-agent-skill-setup-mqy0lg/content/images/2026-10-21-bottleneck.png
+
 Every operation has one station that sets the pace for everything else, whether it's a wrapper, a filler, a dock door or a single forklift that three departments share. Find it, and you find your output.
 
 Speeding up any other station just builds a pile in front of the bottleneck. Looks busy. Ships nothing.
@@ -191,6 +201,8 @@ I'd bet on this every time. A crew of 10 reliable people with average experience
 What do you look for first when you hire?
 
 ## 2026-10-27 | Tue | Labour budget
+Image: https://raw.githubusercontent.com/insync1234-droid/pulse-pipeline/claude/linkedin-agent-skill-setup-mqy0lg/content/images/2026-10-27-labour-budget.png
+
 A labour budget built from last year's numbers is a guess with decimals.
 
 I'd build it from the work instead.
@@ -269,6 +281,8 @@ If your reviews are full of surprises, the problem isn't the review. It's the 11
 How often does your team get real feedback?
 
 ## 2026-11-04 | Wed | Standard work
+Image: https://raw.githubusercontent.com/insync1234-droid/pulse-pipeline/claude/linkedin-agent-skill-setup-mqy0lg/content/images/2026-11-04-standard-work.png
+
 If 3 people do the same job 3 different ways, you don't have a process. You have 3 habits.
 
 Standard work isn't about turning people into robots. It's about writing down the best way we know today, so a new hire can learn it in 2 days and a 10-year veteran can improve it.
@@ -280,6 +294,8 @@ And let the people who do the job write it. They know where the shortcuts are. T
 Does your site have standard work, or does it live in people's heads?
 
 ## 2026-11-05 | Thu | Peak season
+Image: https://raw.githubusercontent.com/insync1234-droid/pulse-pipeline/claude/linkedin-agent-skill-setup-mqy0lg/content/images/2026-11-05-peak-season.png
+
 Peak season doesn't break good operations. It shows you where the cracks already were.
 
 The station that was 5 percent slow in September becomes the bottleneck in November. The 1 person who was trained becomes the person who can't take a day off until January.
