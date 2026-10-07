@@ -1,26 +1,9 @@
 # LinkedIn Content Calendar: Oct 8 - Nov 6, 2026 (Mon-Fri)
 
-Jobs-only. Operations leadership. All posts are advice or opinion. Any example is hypothetical, not a claim about a past job.
-Status values: APPROVED (batch approved by Claroy), POSTED.
+Goal: get hiring managers to come to Claroy for an Operations Manager role in the $90K-$110K range. Each post shows one manager-level skill from real job postings: cost, safety, union relations, developing supervisors, budgeting, Lean and throughput.
+Not repeated: the Oct 6 pre-shift checklist post or the Oct 7 new-hire post. No two posts cover the same topic. All are advice or opinion. Examples are hypothetical.
 
-## 2026-10-08 | Thu | Shift handoffs
-Shift change is where most problems sneak through.
-
-At 3 p.m. the day crew is tired and halfway out the door, the afternoon crew is still finding their gloves, and the one thing that really mattered, like the conveyor on line 2 that jammed twice before lunch, gets mentioned in the hallway or not at all.
-
-A good handoff doesn't need a meeting. It needs three answers, written down:
-
-1. What's not finished?
-2. What broke, or almost broke?
-3. What will bite the next shift if nobody says it?
-
-Five lines on the whiteboard by the time clock. Two minutes. The incoming supervisor reads it before talking to anyone.
-
-I'd take that over a polished 4-page shift report every time. Short and honest beats complete and late.
-
-How does your site handle shift change?
-
-## 2026-10-09 | Fri | Open to work
+## 2026-10-08 | Thu | Open to work
 I'm looking for my next role in operations, and I'd rather say it plainly than hint at it.
 
 What I do: run shift teams. Scheduling, staffing gaps, safety, daily targets, and the hundred small problems between 7 a.m. and 3 p.m. that nobody planned for.
@@ -30,6 +13,19 @@ What I'm after: an Operations Manager, Production Manager or Warehouse Manager r
 What I bring: I'm on the floor, not in the office. I fix the cause, not just the symptom. And people on my shifts know what's expected of them before the shift starts.
 
 If you're hiring, or you know someone who is, a message or a share means a lot. My inbox is open.
+
+## 2026-10-09 | Fri | First 90 days
+If I started as an Operations Manager on a Monday, here's what my first 90 days would look like.
+
+Days 1 to 30: listen. Work every shift at least once, including nights. Ask each supervisor 3 questions. What slows you down? What would you fix first? What should I leave alone? Change nothing big.
+
+Days 31 to 60: pick 2 problems. Not 12. The 2 that cost the most in money, safety or people. Usually it's overtime and one bottleneck station. Put a number on each and share it with the crew.
+
+Days 61 to 90: fix them in the open. Show the before and after on a board everyone walks past.
+
+The fastest way to lose a building is to walk in on day 1 with a plan written somewhere else.
+
+Hiring managers, what do you want a new ops manager to do in month one?
 
 ## 2026-10-12 | Mon | Overtime
 Overtime is usually a symptom, not the problem.
@@ -46,74 +42,84 @@ Cutting overtime by memo just pushes the mess somewhere else. Finding where it s
 
 What's the most common overtime cause you've seen?
 
-## 2026-10-13 | Tue | Safety talks
-Most safety talks fail for 1 reason: they're about everything.
+## 2026-10-13 | Tue | Labour cost
+You can cut labour cost without cutting a single person. I mean that.
 
-10 minutes, 11 topics, a sign-in sheet, and nobody remembers a word by first break at 9:30.
+Most of the waste isn't in headcount, no matter what the spreadsheet in the Monday meeting seems to say when someone circles the payroll line in red. It's in the hours people spend waiting, walking and redoing work.
 
-I'd rather do 30 seconds on 1 thing, said while people are still holding their coffee and before anyone has a scanner in their hand. That's it. Monday it's forklift blind spots at Dock Door 4. Tuesday it's the wet floor by the wash station. Wednesday, lifting from below the knee. Just one. Said out loud, with an example from our own building.
+Three places I'd look first:
 
-Then I watch for it all shift. If someone gets it right, I say so in front of the crew at the 11 a.m. break.
+1. Waiting. How many minutes per shift are people standing by for a truck, a part or a decision? Even 20 minutes a person, on a crew of 40, is more than 13 hours a day.
+2. Walking. Map where pickers actually go for 1 hour. Move the top 50 items closer to the pack line.
+3. Rework. Every pallet rewrapped and every order re-picked is paid for twice.
 
-Short and specific beats long and complete. People can't follow what they can't remember.
+Fix those 3 and cost per unit drops while the crew stays the same size. People also tend to stay longer at a site where their time isn't wasted.
 
-What's the best safety talk you've ever heard on a shop floor?
+Where does the hidden labour go in your building?
 
-## 2026-10-14 | Wed | One number
-If your team can't tell you today's number, you don't have one.
+## 2026-10-14 | Wed | Leading indicators
+A site in Hamilton or Brantford can go 300 days without a lost-time injury and still be unsafe.
 
-Every shift needs 1 figure that decides whether it was a good day. 1,200 units out the door. 300 orders picked by noon. 14 trucks loaded by 3 p.m. Then pick one and stick with it.
+Lost-time injuries are a lagging number. By the time that number moves, someone has already gone home hurt, and you're filling out a WSIB form instead of preventing the next one.
 
-Not 10. Ten numbers is a report that gets read at 4 p.m. by someone in an office who can't change anything about a shift that already ended. One number is a target.
+Watch these instead.
 
-Write it big. Put it on the board at 7 a.m. Update it at 9:30, at noon and at 2 p.m. Let people see where they stand while there's still time to do something about it.
+Near-miss reports per week. On a crew of 60, I'd want 5 to 10. If it's 0, people aren't safe. They're quiet.
 
-The end-of-shift report tells you what happened. The 2 p.m. number lets you change what happens.
+Days to close a reported hazard. My target is 7. A report that sits for 3 weeks teaches people to stop reporting.
 
-What's the one number your shift lives by?
+Safety observations by supervisors on the floor. 2 per shift, logged by 3 p.m., not written up from the office on Friday.
 
-## 2026-10-15 | Thu | Absenteeism
-A no-show at 6:55 a.m. tests your whole plan.
+Here's the counterintuitive part. When near-miss reports go up after you start asking for them, that's good news. It means people trust you enough to tell you.
 
-You can scramble every time. Or you can decide in advance, on a quiet Tuesday, with a simple call-out ladder taped up where every lead can see it:
+What safety number do you actually trust?
 
-1. Which 2 or 3 tasks can wait a day without hurting anyone.
-2. Which 2 people are cross-trained for Station 5, the one that can't stop.
-3. Who to call first for coverage, and who not to call 3 weeks in a row.
+## 2026-10-15 | Thu | Union
+Working in a unionized building in Ontario isn't harder. It's just clearer.
 
-None of this stops people calling in. It turns a panic into a 5-minute decision.
+The collective agreement tells you the rules. Seniority, overtime distribution, the 3 or 4 discipline steps, the 24-hour notice for schedule changes. Your job is to know it better than anyone on the floor and apply it the same way every single time.
 
-And when the same person calls in every second Monday? That's a conversation, not a scheduling problem. Have it early, and in private.
+What I've seen work:
 
-How does your team handle last-minute call-outs?
+Get to know the stewards before there's a problem. A 10-minute coffee at 6:30 on a quiet Tuesday saves a lot of grief at 2 p.m. on a busy Friday.
 
-## 2026-10-16 | Fri | Recognition
-The cheapest thing in operations is also the most skipped. Saying "good job" and meaning it.
+Write things down. Dates, times, what was said. Fair process protects everyone, the company and the employee.
 
-Not a plaque. Not a pizza lunch once a quarter. A specific comment, within 10 minutes of the moment.
+Never surprise anyone. If a schedule change is coming, the steward hears it from you first.
 
-"You caught that mislabeled pallet at Door 6 before it left. That would have cost us our biggest customer." 10 seconds, and it tells the whole crew what good looks like.
+Most grievances don't start with a contract violation. They start with someone feeling disrespected.
 
-Vague praise doesn't land. "Thanks, everyone, great week" on a Friday at 2:55 is fine, but nobody changes what they do on Monday because of it.
+What has helped labour relations most at your site?
 
-Be specific. Be quick. And do it in front of people when it's earned.
+## 2026-10-16 | Fri | Stay interviews
+Exit interviews tell you why people left. Too late.
 
-What's the best recognition you ever got at work, and why did it stick?
+I'd rather run stay interviews. 15 minutes, once a year, with everyone on the crew, starting with the people you most want to keep.
 
-## 2026-10-19 | Mon | Coaching new leads
-Promoting your best operator to lead hand is a gamble if you stop there.
+Five questions:
 
-The skills that made them great on the line, speed and accuracy, aren't what they need now. Now they have to correct a friend of 6 years, plan around 2 missing people at 7 a.m. and say no to their old crew.
+1. What do you look forward to when you come in?
+2. What makes a shift frustrating?
+3. When was the last time you thought about leaving, and why?
+4. What would make you stay 2 more years?
+5. What's one thing I should do differently?
 
-What helps in the first 30 days, at least from what I've seen on floors where new leads stuck around past their first rough month:
+Then do something with at least one answer, even something small like fixing the broken heater in the break room that's been on the list since February, and tell them you did.
 
-1. Tell them which decisions are theirs, and which still come to you.
-2. Sit in on their first tough conversation. Debrief for 10 minutes after.
-3. Check in every Friday, even when nothing is wrong.
+Replacing an experienced operator can cost months of their wages once you add hiring, training and lost output. A 15-minute conversation is the cheapest retention tool there is.
 
-It's a lot. New leads rarely fail because they're bad at the work. They fail because nobody showed them the job changed on day 1.
+Has anyone ever asked you why you stay?
 
-What do you wish someone had told you in your first week as a lead?
+## 2026-10-19 | Mon | Developing supervisors
+The hardest jump in operations isn't from operator to supervisor. I'd argue it's not even close. It's from supervisor to managing supervisors.
+
+You stop being the fixer. Hard habit to break. Now your job is making sure your supervisors can fix things without you.
+
+That means letting them make calls you'd make differently, as long as they're safe and inside budget. Moving 2 people from receiving at 10 a.m. Approving 4 hours of overtime on a Thursday. Their call. It means asking "what do you think we should do?" before giving your answer. And it means a 30-minute one-on-one with each of them every Monday at 8, which doesn't get cancelled in November when it's busy.
+
+If the building only runs well when the manager is there from 6 a.m. to 6 p.m., 5 days a week, the manager hasn't done the job yet.
+
+Supervisors, what's the most useful thing a manager ever did for you?
 
 ## 2026-10-20 | Tue | 5S
 5S gets a bad name because people treat it like a cleaning day.
@@ -126,24 +132,22 @@ Then the hard part: check it next Friday, and the Friday after. The first sort i
 
 Where's the messiest station in your building, honestly?
 
-## 2026-10-21 | Wed | Short meetings
-The best pre-shift meeting I know of takes six minutes and nobody sits down.
+## 2026-10-21 | Wed | Bottleneck
+Every operation has one station that sets the pace for everything else, whether it's a wrapper, a filler, a dock door or a single forklift that three departments share. Find it, and you find your output.
 
-Here's the order:
+Speeding up any other station just builds a pile in front of the bottleneck. Looks busy. Ships nothing.
 
-1. Safety item, one sentence.
-2. Yesterday's number and today's target.
-3. Who's where, and what changed.
-4. One thing that went wrong and what we're doing about it.
-5. Questions.
+How I'd find it: walk the floor on a Tuesday at 10 a.m. and again at 2 p.m., with a notepad. Where is work piling up? Where are people waiting? The bottleneck is usually right after the biggest pile.
 
-Then everyone goes to work.
+Then protect it:
 
-If it runs longer than ten minutes, something is wrong. Either there's a problem that needs its own conversation, or the meeting has turned into a lecture.
+1. It never waits for material. Stage work ahead of it.
+2. It never stops for breaks. Stagger them so someone's always running it.
+3. Your 2 or 3 best-trained people work it, every shift.
 
-People remember short meetings. They tune out long ones. And a crew that tunes out the meeting will tune out the safety item too.
+One hour lost at the bottleneck is one hour lost for the whole building. One hour saved anywhere else is mostly an illusion.
 
-How long is your pre-shift huddle?
+Where's the bottleneck in your operation right now?
 
 ## 2026-10-22 | Thu | Maintenance
 Production and maintenance blaming each other is one of the oldest stories in any plant.
@@ -186,18 +190,20 @@ I'd bet on this every time. A crew of 10 reliable people with average experience
 
 What do you look for first when you hire?
 
-## 2026-10-27 | Tue | Data on the floor
-A spreadsheet nobody on the floor sees doesn't change anything on the floor.
+## 2026-10-27 | Tue | Labour budget
+A labour budget built from last year's numbers is a guess with decimals.
 
-Good data sitting in a Monday email to 4 managers, while 40 people on the floor have no idea how the week is going. I've seen it happen everywhere, and I bet you have too.
+I'd build it from the work instead.
 
-Put it where people work. A whiteboard by the time clock. A 50-inch screen by the break room. 3 numbers, updated at 9, 12 and 2, not the next morning.
+Start with forecast volume by week. Divide by a realistic rate per hour, the one the floor actually hits, not the one in the system from 2019. That gives you the hours you need.
 
-When people can see the score, they start playing the game. They notice Station 7 is 40 units behind. They ask why. Some of the best fixes start with that question.
+Then add the hours people forget: training, meetings, safety talks, vacation coverage and a buffer for absences. On most sites that's 10 to 15 percent on top.
 
-Keep it visible, simple and current, and make sure the person updating it at 2 p.m. is someone the crew actually talks to. Then listen. 
+Now compare that number to your headcount. The gap tells you whether you need temps in November, overtime in March or fewer hours in July, months before it shows up as a surprise.
 
-Where does your team see its numbers?
+Finance trusts a budget they can trace back to the work. So does the crew.
+
+How does your site build its labour plan?
 
 ## 2026-10-28 | Wed | Saying no
 One of the hardest parts of supervising is saying no to the people above you.
@@ -289,14 +295,14 @@ Then on the busy days, protect the crew. Tired people make mistakes, and a mista
 What's your number 1 peak-season lesson?
 
 ## 2026-11-06 | Fri | Why operations
-People ask why I like operations. Here's my honest answer.
+People ask why I like operations. Fair question.
 
-It's one of the few jobs where you see the result of your decisions by 3 p.m. A better schedule on Monday, a clearer handoff on Tuesday, a station that finally makes sense by Friday. You watch the difference on the floor.
+It's one of the few jobs where you see the result of your decisions by 3 p.m. Same day. A better schedule on Monday, a clearer handoff on Tuesday, a station that finally makes sense by Friday. You watch the difference on the floor.
 
-It's about people more than processes. The best system in Ontario fails if the crew doesn't trust the person running the shift.
+Mostly, though, it's about people. The best system in Ontario fails if the crew doesn't trust the person running the shift.
 
-I like solving the problem in front of me. I like it more when the team solves it with me.
+I like solving the problem in front of me, but I like it a lot more when the crew solves it with me and somebody on nights comes up with the fix I'd never have thought of.
 
 That's what I want to keep doing in my next role, in Brantford, Hamilton, Cambridge or anywhere along the 403.
 
-What keeps you in your line of work?
+If you're hiring an Operations Manager in that area, my messages are open. And if you're not, what keeps you in your line of work?
