@@ -3,16 +3,24 @@
 Goal: get hiring managers to come to Claroy for an Operations Manager role in the $90K-$110K range. Each post shows one manager-level skill from real job postings: cost, safety, union relations, developing supervisors, budgeting, Lean and throughput.
 Not repeated: the Oct 6 pre-shift checklist post or the Oct 7 new-hire post. No two posts cover the same topic. All are advice or opinion. Examples are hypothetical.
 
-## 2026-10-08 | Thu | Open to work
-I'm looking for my next role in operations, and I'd rather say it plainly than hint at it.
+## 2026-10-08 | Thu | Inventory accuracy
+Inventory that's "probably right" is wrong.
 
-What I do: run shift teams. Scheduling, staffing gaps, safety, daily targets, and the hundred small problems between 7 a.m. and 3 p.m. that nobody planned for.
+Picture it. A picker spends 2 hours hunting for 6 pallets the system swears are in aisle 14, while they sit quietly in aisle 41 because a tired receiver flipped two digits at 5:45 on a Friday. The order ships a day late. Nobody did anything unusual.
 
-What I'm after: an Operations Manager, Production Manager or Warehouse Manager role in Brantford, Hamilton, Cambridge, Kitchener-Waterloo or the Burlington and Milton corridor.
+A full count once a year won't fix that. By March the numbers drift again.
 
-What I bring: I'm on the floor, not in the office. I fix the cause, not just the symptom. And people on my shifts know what's expected of them before the shift starts.
+What works is small and boring:
 
-If you're hiring, or you know someone who is, a message or a share means a lot. My inbox is open.
+1. Cycle count 20 random locations every day.
+2. Count fast movers weekly. They drift most.
+3. When a count is off, find out why before you adjust it. A correction without a cause just hides the next one.
+
+Do that for 90 days and the annual count stops being a weekend of overtime. It becomes a formality.
+
+Accurate inventory isn't an accounting job. It's an operations habit.
+
+How often does your site count?
 
 ## 2026-10-09 | Fri | First 90 days
 If I started as an Operations Manager on a Monday, here's what my first 90 days would look like.
