@@ -1,316 +1,276 @@
 # LinkedIn Content Calendar: Oct 8 - Nov 6, 2026 (Mon-Fri)
 
-Goal: get hiring managers to come to Claroy for an Operations Manager role in the $90K-$110K range. Each post shows one manager-level skill from real job postings: cost, safety, union relations, developing supervisors, budgeting, Lean and throughput.
-Not repeated: the Oct 6 pre-shift checklist post or the Oct 7 new-hire post. No two posts cover the same topic. All are advice or opinion. Examples are hypothetical.
+Goal: get hiring managers to come to Claroy for an Operations Manager role in the $90K-$110K range.
+Topics (chosen by Claroy, Oct 8): Leadership & people, Career & growth, Industry news & opinion. No warehouse, inventory or shift-tip posts. No 'open to work' post.
+All posts are opinion or advice. Examples are hypothetical. Industry posts (Fridays) are written fresh that morning from that week's real Ontario or Canadian news (manufacturing, logistics, jobs or the economy), with the source checked and named, run through li-human (70+).
 
-## 2026-10-08 | Thu | Inventory accuracy
-Inventory that's "probably right" is wrong.
+## 2026-10-08 | Thu | Leadership: Respect is earned on bad days
+Your team doesn't decide whether to respect you on a good day. They decide on a bad one.
 
-Picture it. A picker spends 2 hours hunting for 6 pallets the system swears are in aisle 14, while they sit quietly in aisle 41 because a tired receiver flipped two digits at 5:45 on a Friday. The order ships a day late. Nobody did anything unusual.
+When the plan falls apart at 10 a.m. on a Tuesday, with 2 people out and a truck at the door, all 30 people on the floor watch the person in charge. Do you blame? Do you disappear into the office? Or do you stay calm, tell people the truth and help fix it?
 
-A full count once a year won't fix that. By March the numbers drift again.
+That 1 moment teaches the crew more about you than 52 weeks of meetings. Every time.
 
-What works is small and boring:
+I think respect comes down to 3 things people see over and over:
 
-1. Cycle count 20 random locations every day.
-2. Count fast movers weekly. They drift most.
-3. When a count is off, find out why before you adjust it. A correction without a cause just hides the next one.
+1. You tell the truth, even when it's not good news.
+2. You don't throw anyone under the bus. Not upward, not sideways.
+3. You do the hard part with them, not just point at it.
 
-Do that for 90 days and the annual count stops being a weekend of overtime. It becomes a formality.
+Titles get you compliance. How you act on the worst day gets you respect.
 
-Accurate inventory isn't an accounting job. It's an operations habit.
+What's the one thing a leader did that earned your respect?
 
-How often does your site count?
+## 2026-10-09 | Fri | Industry: Industry opinion
+WRITE FRESH THAT MORNING: one recent Ontario or Canadian manufacturing, logistics or jobs news item, with a short opinion from an operations leader's view. Name the source. 600-1,000 characters. End with a question.
 
-## 2026-10-09 | Fri | First 90 days
-If I started as an Operations Manager on a Monday, here's what my first 90 days would look like.
+## 2026-10-12 | Mon | Career: Supervisor vs manager
+The jump from supervisor to manager isn't a bigger version of the same job. Different job.
 
-Days 1 to 30: listen. Work every shift at least once, including nights. Ask each supervisor 3 questions. What slows you down? What would you fix first? What should I leave alone? Change nothing big.
+A supervisor wins the shift. A manager wins the quarter.
 
-Days 31 to 60: pick 2 problems. Not 12. The 2 that cost the most in money, safety or people. Usually it's overtime and one bottleneck station. Put a number on each and share it with the crew.
+As a supervisor in Brantford or Hamilton or anywhere else, you're measured on today, on the 8 hours between 7 and 3: did we hit the target, was everyone safe, did the trucks go out. As a manager, you're measured on things you can't see by 3 p.m. Is the  million budget holding? Are your supervisors getting better? Will this team still be strong in 12 months?
 
-Days 61 to 90: fix them in the open. Show the before and after on a board everyone walks past.
+The hardest part is letting go of being the one who fixes everything. If you're still the hero every day, you're doing your old job.
 
-The fastest way to lose a building is to walk in on day 1 with a plan written somewhere else.
+I think the best preparation is to start thinking a level up before anyone gives you the title. Ask about the budget in your next 1-on-1. Ask why decisions get made. Learn 3 numbers.
 
-Hiring managers, what do you want a new ops manager to do in month one?
+Managers, what surprised you most when you made the jump?
 
-## 2026-10-12 | Mon | Overtime
-Overtime is usually a symptom, not the problem.
+## 2026-10-13 | Tue | Leadership: Accountability without fear
+Accountability and fear get mixed up a lot. They're not the same thing.
 
-When I see a department burning 60 extra hours a week, I don't start with the schedule. I start with 3 questions.
+Fear sounds like: "Whose fault is this?" People hear that and start hiding mistakes.
 
-Where in the shift does the overtime happen? If it's always the last 90 minutes, something upstream is late. Usually receiving, usually by 2 p.m.
+Accountability sounds like: "What happened, and what do we do now?" People hear that and start bringing problems to you early, while they're still small.
 
-Who is staying? If it's the same 4 people every week, that's a training gap, not a staffing gap.
+Same standard. Very different result.
 
-What happens if we say no for 1 week? Sometimes the work disappears. Sometimes it moves to Monday. Either answer tells you something.
+I'd rather have a crew that tells me about a mistake in 5 minutes than one that hides it for 5 days. The first one gets fixed. The second one gets expensive.
 
-Cutting overtime by memo just pushes the mess somewhere else. Finding where it starts takes longer, maybe 2 or 3 weeks of watching, but it sticks.
+High standards and a safe place to admit mistakes can live together. In my view, the best teams have both.
 
-What's the most common overtime cause you've seen?
+Which one does your workplace run on?
 
-## 2026-10-13 | Tue | Labour cost
-You can cut labour cost without cutting a single person. I mean that.
+## 2026-10-14 | Wed | Career: What got you here
+The skills that got you promoted are rarely the skills that keep you growing.
 
-Most of the waste isn't in headcount, no matter what the spreadsheet in the Monday meeting seems to say when someone circles the payroll line in red. It's in the hours people spend waiting, walking and redoing work.
+Most people get their first leadership role because they were great at the work itself, often after 3 to 5 years on the floor. Fastest. Most accurate. First in at 6:30.
 
-Three places I'd look first:
+Then on Monday morning, the job changes. Now the work is people. Planning. Saying no. Explaining the "why" to a room that doesn't want to hear it. Reading a budget.
 
-1. Waiting. How many minutes per shift are people standing by for a truck, a part or a decision? Even 20 minutes a person, on a crew of 40, is more than 13 hours a day.
-2. Walking. Map where pickers actually go for 1 hour. Move the top 50 items closer to the pack line.
-3. Rework. Every pallet rewrapped and every order re-picked is paid for twice.
+None of that gets better by working harder at your old job.
 
-Fix those 3 and cost per unit drops while the crew stays the same size. People also tend to stay longer at a site where their time isn't wasted.
+If you want the next role, pick the skill it needs that you're weakest at, and practise it on purpose for 90 days. Volunteer to build next week's schedule. Ask to sit in on the October budget meeting. Lead the toughest conversation instead of avoiding it.
 
-Where does the hidden labour go in your building?
+Growth is mostly uncomfortable, and I don't think anyone who's moved up 2 or 3 levels would tell you otherwise. That's usually how you know it's working.
 
-## 2026-10-14 | Wed | Leading indicators
-A site in Hamilton or Brantford can go 300 days without a lost-time injury and still be unsafe.
+What skill are you working on right now?
 
-Lost-time injuries are a lagging number. By the time that number moves, someone has already gone home hurt, and you're filling out a WSIB form instead of preventing the next one.
+## 2026-10-15 | Thu | Leadership: Hard conversations
+The hard conversation you're avoiding is getting harder every day you wait.
 
-Watch these instead.
+Someone's late again. Someone's attitude is dragging the team. Someone isn't pulling their weight, and everybody else has noticed.
 
-Near-miss reports per week. On a crew of 60, I'd want 5 to 10. If it's 0, people aren't safe. They're quiet.
+Waiting feels kind. It's not, and after 3 or 4 weeks of silence it turns into something much harder for both of you. The team sees you letting it slide, and the person never gets the chance to fix it.
 
-Days to close a reported hazard. My target is 7. A report that sits for 3 weeks teaches people to stop reporting.
+Here's what I've found works.
 
-Safety observations by supervisors on the floor. 2 per shift, logged by 3 p.m., not written up from the office on Friday.
+1. Have it early, while it's still small.
+2. Have it in private. Never in front of the crew.
+3. Be specific. "You were 20 minutes late Monday and Wednesday," not "your attitude."
+4. End with what good looks like and when you'll check in.
 
-Here's the counterintuitive part. When near-miss reports go up after you start asking for them, that's good news. It means people trust you enough to tell you.
+Most people respond well to clear and respectful. Almost nobody responds well to a surprise.
 
-What safety number do you actually trust?
+What's the hardest conversation you've had to have at work?
 
-## 2026-10-15 | Thu | Union
-Working in a unionized building in Ontario isn't harder. It's just clearer.
+## 2026-10-16 | Fri | Industry: Industry opinion
+WRITE FRESH THAT MORNING: one recent Ontario or Canadian manufacturing, logistics or jobs news item, with a short opinion from an operations leader's view. Name the source. 600-1,000 characters. End with a question.
 
-The collective agreement tells you the rules. Seniority, overtime distribution, the 3 or 4 discipline steps, the 24-hour notice for schedule changes. Your job is to know it better than anyone on the floor and apply it the same way every single time.
+## 2026-10-19 | Mon | Leadership: Listening
+The people doing the work usually know the problem 2 or 3 weeks before management does.
 
-What I've seen work:
+They know Line 2 is about to give out. Which process makes no sense. Which customer order is going to be late. They just don't always get asked, because the morning meeting runs long, the manager is buried in email and nobody walks the floor at 2 p.m. to find out.
 
-Get to know the stewards before there's a problem. A 10-minute coffee at 6:30 on a quiet Tuesday saves a lot of grief at 2 p.m. on a busy Friday.
+Listening is a leadership skill. Underrated.
 
-Write things down. Dates, times, what was said. Fair process protects everyone, the company and the employee.
+A few habits that help:
 
-Never surprise anyone. If a schedule change is coming, the steward hears it from you first.
+Ask 1 question, "what's slowing you down?", and then stop talking for 30 seconds.
 
-Most grievances don't start with a contract violation. They start with someone feeling disrespected.
+Write down what you hear, so people know it didn't disappear.
 
-What has helped labour relations most at your site?
+Come back within 7 days with an answer, even if the answer is "not yet, and here's why."
 
-## 2026-10-16 | Fri | Stay interviews
-Exit interviews tell you why people left. Too late.
+When people see their ideas go somewhere, they keep bringing them. When they don't, they stop. And you lose the best source of information in the building.
 
-I'd rather run stay interviews. 15 minutes, once a year, with everyone on the crew, starting with the people you most want to keep.
+When was the last time someone at work really listened to you?
 
-Five questions:
+## 2026-10-20 | Tue | Career: Learn the numbers
+If you want to move into management, learn the numbers. Nobody will hand them to you.
 
-1. What do you look forward to when you come in?
-2. What makes a shift frustrating?
-3. When was the last time you thought about leaving, and why?
-4. What would make you stay 2 more years?
-5. What's one thing I should do differently?
+Most frontline leaders know their output and their safety record by heart. Fewer know what their department costs to run, or how their labour hours compare to budget.
 
-Then do something with at least one answer, even something small like fixing the broken heater in the break room that's been on the list since February, and tell them you did.
+That's the gap between supervisor and manager in a lot of interviews.
 
-Replacing an experienced operator can cost months of their wages once you add hiring, training and lost output. A 15-minute conversation is the cheapest retention tool there is.
+Three numbers worth understanding in any operation:
 
-Has anyone ever asked you why you stay?
+1. Labour cost per unit, or per order.
+2. Overtime as a percentage of total hours.
+3. Your department's budget versus actual, every month.
 
-## 2026-10-19 | Mon | Developing supervisors
-The hardest jump in operations isn't from operator to supervisor. I'd argue it's not even close. It's from supervisor to managing supervisors.
+You don't need a finance degree from McMaster or Laurier, and you don't need to love spreadsheets, but you do need to sit down with someone who reads these reports every month. Ask your manager for 30 minutes to walk through the September report. Ask what they watch and why.
 
-You stop being the fixer. Hard habit to break. Now your job is making sure your supervisors can fix things without you.
+The day you can talk about results in dollars, people start seeing you differently.
 
-That means letting them make calls you'd make differently, as long as they're safe and inside budget. Moving 2 people from receiving at 10 a.m. Approving 4 hours of overtime on a Thursday. Their call. It means asking "what do you think we should do?" before giving your answer. And it means a 30-minute one-on-one with each of them every Monday at 8, which doesn't get cancelled in November when it's busy.
+Which number do you wish you understood better?
 
-If the building only runs well when the manager is there from 6 a.m. to 6 p.m., 5 days a week, the manager hasn't done the job yet.
+## 2026-10-21 | Wed | Leadership: Same rules for everyone
+Nothing kills a team faster than rules that only apply to some people.
 
-Supervisors, what's the most useful thing a manager ever did for you?
+If your friend of 8 years gets a pass for being late on Monday and the new guy gets written up on Tuesday, all 25 people on the crew notice. Usually by lunch.
 
-## 2026-10-20 | Tue | 5S
-5S gets a bad name because people treat it like a cleaning day.
+Consistency is boring. Very. It's also one of the strongest things a leader can offer. People can handle tough rules. What they can't handle is not knowing which rules apply to them today.
 
-It isn't. It's about how fast someone can find what they need. If a new hire can't find the tape gun at Pack Station 3 in under 10 seconds, that station costs you time every shift. 20 searches a day, 30 seconds each, 5 days a week. Do the math.
+A simple test I'd use, at 7 a.m. or 7 p.m.: would I make the same call if it were someone I don't get along with? If the answer is no, the call is wrong.
 
-Start small. 1 station. Take a photo today. Pull out anything nobody touched in 30 days. Give everything else a home and mark it with tape. Take another photo.
+Fair isn't the same as soft. It just means the standard doesn't change with the person.
 
-Then the hard part: check it next Friday, and the Friday after. The first sort is easy. Keeping it for 90 days is the whole game.
+Have you ever worked somewhere with two sets of rules?
 
-Where's the messiest station in your building, honestly?
+## 2026-10-22 | Thu | Career: Ask for feedback early
+Don't wait for your annual review to find out how you're doing.
 
-## 2026-10-21 | Wed | Bottleneck
-Every operation has one station that sets the pace for everything else, whether it's a wrapper, a filler, a dock door or a single forklift that three departments share. Find it, and you find your output.
+By then it's a report card, written in November about things that happened in March, and you can't change a single line of it.
 
-Speeding up any other station just builds a pile in front of the bottleneck. Looks busy. Ships nothing.
+Ask your manager directly, every 6 to 8 weeks: "What's one thing I should do more of, and one thing I should stop?"
 
-How I'd find it: walk the floor on a Tuesday at 10 a.m. and again at 2 p.m., with a notepad. Where is work piling up? Where are people waiting? The bottleneck is usually right after the biggest pile.
+2 questions. 5 minutes. That's it. Most managers respect it, and many have been waiting for someone to ask.
 
-Then protect it:
+Then act on the answer, and mention it next time. "You said I should delegate more. I handed the schedule to Sam this month." That's how you show you're ready for more responsibility.
 
-1. It never waits for material. Stage work ahead of it.
-2. It never stops for breaks. Stagger them so someone's always running it.
-3. Your 2 or 3 best-trained people work it, every shift.
+People who ask for feedback grow faster. And they're the first names that come up when a new role opens.
 
-One hour lost at the bottleneck is one hour lost for the whole building. One hour saved anywhere else is mostly an illusion.
+When did you last ask your boss how you're really doing?
 
-Where's the bottleneck in your operation right now?
+## 2026-10-23 | Fri | Industry: Industry opinion
+WRITE FRESH THAT MORNING: one recent Ontario or Canadian manufacturing, logistics or jobs news item, with a short opinion from an operations leader's view. Name the source. 600-1,000 characters. End with a question.
 
-## 2026-10-22 | Thu | Maintenance
-Production and maintenance blaming each other is one of the oldest stories in any plant.
+## 2026-10-26 | Mon | Leadership: Trust is built small
+Trust isn't built with big speeches. It's built with small promises kept.
 
-Production says Line 3 is always down. Always. Maintenance says production runs it into the ground and calls at 4:45 on a Friday.
+"I'll get back to you on that by Friday at 3." Then you do.
 
-Honestly? They're usually both a little right, and I've never seen the argument fixed by deciding who was more right.
+"I'll look into the broken heater in the break room." Then it gets fixed, or you explain why it can't be yet.
 
-What helps? A shared list. Every small thing an operator notices, a squeal, a drip, a cycle that's 2 seconds slower than Monday, goes on it during the shift. Maintenance sees it before it turns into an 8-hour breakdown. Production sees what got fixed, and when.
+Every small promise kept adds a little, like a deposit of $5. Every 1 forgotten takes out $20.
 
-Nobody needs another 1-hour meeting. You stop arguing about fault when everyone is looking at the same list.
+The quickest way I know to lose a team is to say yes to everything and follow through on half. People stop bringing things to you, and then you're leading blind.
 
-How do production and maintenance work together where you are?
+Say less. Do what you said. That's 90 percent of it.
 
-## 2026-10-23 | Fri | Tough shifts
-Some shifts just go wrong. 2 people call in, a truck shows up 3 hours early, and the scanners drop off the network at 10:15.
+What's one small thing a leader did that made you trust them?
 
-On those days the crew watches the supervisor more than the clock.
+## 2026-10-27 | Tue | Career: Certifications vs experience
+Are certifications worth it in operations? My honest take: yes, but they don't replace results.
 
-Here's what I try to do.
+Lean, a Six Sigma Green Belt, a JHSC certification, a CITT or APICS designation. They show up in most Operations Manager postings in Ontario for a reason. They give you a shared language, and they get your resume past the first filter.
 
-Say out loud what's happening and what we're doing first, because when the supervisor goes quiet and starts walking fast, everyone on the floor assumes it's worse than it is. Silence makes people guess.
+But hiring managers still ask the same question in the interview: what did you actually change, and what happened?
 
-Pick the 1 thing that has to ship by 3 p.m. Let the rest slide to tomorrow.
+So I'd do both. Get the certification. Then use it on 1 real problem at work within 60 days, even a small one, and measure the before and after. That story is what gets you hired.
 
-Stay calm on the floor, even if I'm not calm inside.
+A certificate on its own is a line on a resume. A certificate plus a result is a reason to call you.
 
-And at the end, thank people by name. Maria on receiving, the 2 guys who jumped to shipping without being asked. A hard shift handled well deserves more thanks than an easy one.
+Which certification has helped your career most?
 
-What's the toughest shift you've had to get through?
+## 2026-10-28 | Wed | Leadership: Give credit, take blame
+Good leaders pass credit down and take blame up.
 
-## 2026-10-26 | Mon | Hiring for attitude
-I'll take reliable over experienced for most floor roles.
+When the team hits a record week, the credit goes to the people who did it, by name. Maria on receiving. The 3 people who stayed late on Thursday. Said out loud in the Monday meeting, in front of the managers above you.
 
-Skills on a line can be taught in 2 or 3 weeks. I've seen it. Showing up at 6:50 every day, telling the truth when something goes wrong, helping the person next to you? Those take years to teach, if they can be taught at all.
+When something goes wrong, the leader stands up first. "That's on me. Here's what we're changing." Then you sort out the details privately.
 
-In interviews I ask 1 question I really care about: tell me about a time you made a mistake at work. I don't care much about the mistake. I care whether they own it in the first 30 seconds or blame someone else.
+Sounds simple. It's not, especially at 4:45 on a Friday when your own boss is frustrated.
 
-I'd bet on this every time. A crew of 10 reliable people with average experience will beat 10 talented people who don't trust each other. Almost every time.
+But people remember who protected them and who didn't. They'll work 2 times as hard for the first kind.
 
-What do you look for first when you hire?
+Have you worked for someone who did this well?
 
-## 2026-10-27 | Tue | Labour budget
-A labour budget built from last year's numbers is a guess with decimals.
+## 2026-10-29 | Thu | Career: Find a mentor two levels up
+If you want to grow, find someone two levels above where you are now and learn how they think.
 
-I'd build it from the work instead.
+Your direct boss is focused on this week. Someone two levels up is thinking about next year. They see why decisions get made, and that's exactly the view you're missing.
 
-Start with forecast volume by week. Divide by a realistic rate per hour, the one the floor actually hits, not the one in the system from 2019. That gives you the hours you need.
+You don't need a formal program. Ask for 20 minutes over a Tim Hortons coffee. Come with 2 specific questions. "How did you make the jump to manager?" "What do you wish supervisors understood about your job?"
 
-Then add the hours people forget: training, meetings, safety talks, vacation coverage and a buffer for absences. On most sites that's 10 to 15 percent on top.
+Then follow up 30 days later and tell them what you did with their advice, because that one email is what turns a single coffee into a mentor who keeps taking your calls for years.
 
-Now compare that number to your headcount. The gap tells you whether you need temps in November, overtime in March or fewer hours in July, months before it shows up as a surprise.
+Most experienced leaders like being asked. Someone did it for them once.
 
-Finance trusts a budget they can trace back to the work. So does the crew.
+Who's been the most useful mentor in your career?
 
-How does your site build its labour plan?
+## 2026-10-30 | Fri | Industry: Industry opinion
+WRITE FRESH THAT MORNING: one recent Ontario or Canadian manufacturing, logistics or jobs news item, with a short opinion from an operations leader's view. Name the source. 600-1,000 characters. End with a question.
 
-## 2026-10-28 | Wed | Saying no
-One of the hardest parts of supervising is saying no to the people above you.
+## 2026-11-02 | Mon | Leadership: Leading experienced people
+One of the toughest spots for a new leader: managing people who've been doing the job longer than you.
 
-A rush order lands at 1 p.m. Big one. It can't be done without skipping a safety check or burning out a crew that already worked Saturday.
+The worst move is pretending you know more than they do. They'll see through it in a day.
 
-Yes feels easier in the moment, because nobody likes being the person who slows things down when the plant manager is standing at your desk. It usually isn't easier.
+What works better:
 
-What works better than a flat no: here's what we can do. "We can ship 60 percent today and the rest by 10 a.m. Thursday. Or we pull 3 people from receiving and push their work to Friday." Options, with the cost of each one spelled out.
+Ask for their knowledge, openly, in week 1. "You've run this line for 12 years. What's the 1 thing you'd change?"
 
-Think about it. Managers don't want a no. They want a plan they can live with by 3 o'clock.
+Be clear about your job. Not theirs. Not to out-skill them, but to clear the path, make decisions and keep the team fair.
 
-How do you handle impossible requests from above?
+Don't avoid the hard calls just because they're senior. Respect their experience and still hold the standard.
 
-## 2026-10-29 | Thu | Root cause
-Fixing the same problem twice means you fixed the wrong thing.
+Experienced people, the ones with 15 or 20 years on the floor, don't need a leader who knows everything. They need one who listens, decides and backs them up.
 
-When something goes wrong, the first answer is usually a person, a name said out loud in the office before anyone has even walked down to the dock to look. "Mike loaded the wrong trailer." Maybe. So ask why it was even possible to load the wrong trailer.
+Have you ever led people with more experience than you?
 
-Ask why 5 times, until you reach something you can change that isn't "try harder." Door 12 and Door 21 look the same from a forklift. The labels are printed in 10-point font. Every Thursday at 2 p.m., 6 trucks show up at once.
+## 2026-11-03 | Tue | Career: Interview with results
+In interviews, most people describe their duties. The people who get hired describe their results.
 
-"Be more careful" is not a fix. It's a hope, and hope doesn't work on a Thursday at 2 p.m. when 6 trucks are lined up and the yard is full.
+"I supervised a team of 25" tells a hiring manager what your title was.
 
-Fix the setup and the mistake stops for all 30 people on the dock, not just Mike.
+"I took over a team with high turnover and kept everyone through peak season" tells them what you can do for them.
 
-What's a problem your team fixed for good once you found the real cause?
+Before your next interview, go through your last 2 jobs and write down 5 things that changed because you were there. Just 5. Use numbers where you can. Fewer injuries, less overtime, faster shipping, people promoted.
 
-## 2026-10-30 | Fri | Question to the network
-A question for the operations people in Ontario and beyond.
+If you can't think of 5, that's useful too, because it shows you exactly what to go and do in your current role over the next 6 months. It shows you what to work on in your current role.
 
-If you could change 1 thing about how most warehouses or plants run, what would it be? Just one.
+Hiring managers aren't buying your job description. They're buying what happens after they hire you.
 
-Here's mine. Every new supervisor spends their first 2 weeks working the floor jobs they're about to manage. Not shadowing them for an afternoon with a clipboard while someone else does the lifting. Actually doing them. Picking on Monday, receiving on Tuesday, the dock on Wednesday, nights on Thursday and Friday.
+What's the best interview question you've ever been asked?
 
-You'd learn fast, usually by Wednesday, which processes make sense on a busy floor and which ones only look good in a binder that hasn't been opened since the last audit. And the crew sees you know what you're asking of them.
+## 2026-11-04 | Wed | Leadership: Calm is contagious
+Calm is contagious. So is panic.
 
-Your turn. Tell me.
+When something big goes wrong at 2 p.m., all 40 people on the floor read the leader's face before they hear a word. If you're rushing around, raising your voice, snapping at people, the whole floor speeds up and starts making mistakes.
 
-## 2026-11-02 | Mon | Cross-training
-A crew where only 1 person can run a key station is 1 sick day away from a bad week.
+If you slow down, ask 2 good questions and give 3 clear instructions, the panic drains out of the room in about 5 minutes.
 
-Cross-training feels like a cost when you're busy, and I get it, because nobody wants to slow down the one station that's already holding everything together. Someone slower is on the station, output drops for 3 or 4 hours, and the trainer is frustrated.
+You don't have to feel calm. You just have to act calm long enough for the team to settle and do their jobs.
 
-The alternative costs more. Overtime, a missed shipment to Toronto, and 1 exhausted person who hasn't had a week off since March.
+It's a skill, and it gets better with practice. Breathe first. Talk second. Every time.
 
-A simple target: 2 trained people for every critical station, 3 for the bottleneck. Put a skills grid on the wall by the time clock so everyone can see the gaps.
+Who's the calmest leader you've worked with?
 
-Train on the slow Tuesday. Not during the fire.
+## 2026-11-05 | Thu | Career: Your next job starts now
+Your next job is earned in the one you have right now.
 
-How many people can run your most critical station?
+Not in the 45-minute interview. Not on your 2-page resume. In what people say about you when you're not in the room.
 
-## 2026-11-03 | Tue | Feedback
-Most people find out they did something wrong at their annual review. That's 11 months too late.
+The people who move up tend to be the ones who are already doing a bit of the next job. They solve problems before they're asked. They make their boss's life easier. They develop the people under them.
 
-Feedback works best when it's small and soon. "Hey, that pallet was wrapped loose. Here's how I want it." 5 seconds. No drama. Done.
+So when a manager role opens in Brantford, Cambridge or Hamilton, they're the obvious name. Sometimes 2 weeks before the job is even posted on Indeed.
 
-The longer you wait, the bigger the conversation gets, and the more it feels personal instead of practical, until a 5-second fix in March turns into a 45-minute meeting in December that nobody enjoys.
+If you're aiming higher, ask yourself every Friday: what did I do this week that someone a level up would have done?
 
-Same goes for good work. Say it the same day.
+What's one thing you're doing now to get ready for your next role?
 
-If your reviews are full of surprises, the problem isn't the review. It's the 11 months before it.
-
-How often does your team get real feedback?
-
-## 2026-11-04 | Wed | Standard work
-If 3 people do the same job 3 different ways, you don't have a process. You have 3 habits.
-
-Standard work isn't about turning people into robots. It's about writing down the best way we know today, so a new hire can learn it in 2 days and a 10-year veteran can improve it.
-
-Keep it to 1 page. 4 photos beat 4 paragraphs. Tape it up at Station 2, not in a binder in the office upstairs.
-
-And let the people who do the job write it. They know where the shortcuts are. They know which ones are safe.
-
-Does your site have standard work, or does it live in people's heads?
-
-## 2026-11-05 | Thu | Peak season
-Peak season doesn't break good operations. It shows you where the cracks already were.
-
-The station that was 5 percent slow in September becomes the bottleneck in November. The 1 person who was trained becomes the person who can't take a day off until January.
-
-Prepare before you're in it:
-
-1. Find the bottleneck now. Add capacity there first.
-2. Cross-train before the 15 temps arrive, not while they're arriving.
-3. Decide in October what you'll stop doing when volume doubles.
-
-Then on the busy days, protect the crew. Tired people make mistakes, and a mistake on December 18 costs twice what it would in July.
-
-What's your number 1 peak-season lesson?
-
-## 2026-11-06 | Fri | Why operations
-People ask why I like operations. Fair question.
-
-It's one of the few jobs where you see the result of your decisions by 3 p.m. Same day. A better schedule on Monday, a clearer handoff on Tuesday, a station that finally makes sense by Friday. You watch the difference on the floor.
-
-Mostly, though, it's about people. The best system in Ontario fails if the crew doesn't trust the person running the shift.
-
-I like solving the problem in front of me, but I like it a lot more when the crew solves it with me and somebody on nights comes up with the fix I'd never have thought of.
-
-That's what I want to keep doing in my next role, in Brantford, Hamilton, Cambridge or anywhere along the 403.
-
-If you're hiring an Operations Manager in that area, my messages are open. And if you're not, what keeps you in your line of work?
+## 2026-11-06 | Fri | Industry: Industry opinion
+WRITE FRESH THAT MORNING: one recent Ontario or Canadian manufacturing, logistics or jobs news item, with a short opinion from an operations leader's view. Name the source. 600-1,000 characters. End with a question.
