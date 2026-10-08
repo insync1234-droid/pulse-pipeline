@@ -4,7 +4,7 @@ Goal: get hiring managers to come to Claroy for an Operations Manager role in th
 Topics (chosen by Claroy, Oct 8): Leadership & people, Career & growth, Industry news & opinion. No warehouse, inventory or shift-tip posts. No 'open to work' post.
 All posts are opinion or advice. Examples are hypothetical. Industry posts (Fridays) are written fresh that morning from that week's real Ontario or Canadian news (manufacturing, logistics, jobs or the economy), with the source checked and named, run through li-human (70+).
 
-## 2026-10-08 | Thu | Leadership: Respect is earned on bad days
+## 2026-10-08 | Thu | Leadership: Respect is earned on bad days | POSTED urn:li:share:7513949560424148992
 Your team doesn't decide whether to respect you on a good day. They decide on a bad one.
 
 When the plan falls apart at 10 a.m. on a Tuesday, with 2 people out and a truck at the door, all 30 people on the floor watch the person in charge. Do you blame? Do you disappear into the office? Or do you stay calm, tell people the truth and help fix it?
