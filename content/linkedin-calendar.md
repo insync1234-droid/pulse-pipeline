@@ -1,8 +1,9 @@
 # LinkedIn Content Calendar: Oct 8 - Nov 6, 2026 (Mon-Fri)
 
 Goal: get hiring managers to come to Claroy for an Operations Manager role in the $90K-$110K range.
+No place names: never mention where Claroy lives or works (Claroy, Oct 12).
 Topics (chosen by Claroy, Oct 8): Leadership & people, Career & growth, Industry news & opinion. No warehouse, inventory or shift-tip posts. No 'open to work' post.
-All posts are opinion or advice. Examples are hypothetical. Industry posts (Fridays) are written fresh that morning from that week's real Ontario or Canadian news (manufacturing, logistics, jobs or the economy), with the source checked and named, run through li-human (70+).
+All posts are opinion or advice. Examples are hypothetical. Industry posts (Fridays) are written fresh that morning from that week's real industry news (leadership, workplace, manufacturing, supply chain or the job market), never local to where Claroy lives or works, with the source checked and named, run through li-human (70+).
 
 ## 2026-10-08 | Thu | Leadership: Respect is earned on bad days | POSTED urn:li:share:7513949560424148992
 Your team doesn't decide whether to respect you on a good day. They decide on a bad one.
@@ -22,14 +23,14 @@ Titles get you compliance. How you act on the worst day gets you respect.
 What's the one thing a leader did that earned your respect?
 
 ## 2026-10-09 | Fri | Industry: Industry opinion
-WRITE FRESH THAT MORNING: one recent Ontario or Canadian manufacturing, logistics or jobs news item, with a short opinion from an operations leader's view. Name the source. 600-1,000 characters. End with a question.
+WRITE FRESH THAT MORNING: one recent national or global leadership, workplace, manufacturing or supply chain news item (no local or regional stories, no city or province names), with a short opinion from an operations leader's view. Name the source. 600-1,000 characters. End with a question.
 
 ## 2026-10-12 | Mon | Career: Supervisor vs manager
 The jump from supervisor to manager isn't a bigger version of the same job. Different job.
 
 A supervisor wins the shift. A manager wins the quarter.
 
-As a supervisor in Brantford or Hamilton or anywhere else, you're measured on today, on the 8 hours between 7 and 3: did we hit the target, was everyone safe, did the trucks go out. As a manager, you're measured on things you can't see by 3 p.m. Is the $2 million budget holding? Are your supervisors getting better? Will this team still be strong in 12 months?
+As a supervisor, you're measured on today, on the 8 hours between 7 and 3: did we hit the target, was everyone safe, did the trucks go out. As a manager, you're measured on things you can't see by 3 p.m. Is the $2 million budget holding? Are your supervisors getting better? Will this team still be strong in 12 months?
 
 The hardest part is letting go of being the one who fixes everything. If you're still the hero every day, you're doing your old job.
 
@@ -86,7 +87,7 @@ Most people respond well to clear and respectful. Almost nobody responds well to
 What's the hardest conversation you've had to have at work?
 
 ## 2026-10-16 | Fri | Industry: Industry opinion
-WRITE FRESH THAT MORNING: one recent Ontario or Canadian manufacturing, logistics or jobs news item, with a short opinion from an operations leader's view. Name the source. 600-1,000 characters. End with a question.
+WRITE FRESH THAT MORNING: one recent national or global leadership, workplace, manufacturing or supply chain news item (no local or regional stories, no city or province names), with a short opinion from an operations leader's view. Name the source. 600-1,000 characters. End with a question.
 
 ## 2026-10-19 | Mon | Leadership: Listening
 The people doing the work usually know the problem 2 or 3 weeks before management does.
@@ -120,7 +121,7 @@ Three numbers worth understanding in any operation:
 2. Overtime as a percentage of total hours.
 3. Your department's budget versus actual, every month.
 
-You don't need a finance degree from McMaster or Laurier, and you don't need to love spreadsheets, but you do need to sit down with someone who reads these reports every month. Ask your manager for 30 minutes to walk through the September report. Ask what they watch and why.
+You don't need a finance degree, and you don't need to love spreadsheets, but you do need to sit down with someone who reads these reports every month. Ask your manager for 30 minutes to walk through the September report. Ask what they watch and why.
 
 The day you can talk about results in dollars, people start seeing you differently.
 
@@ -155,7 +156,7 @@ People who ask for feedback grow faster. And they're the first names that come u
 When did you last ask your boss how you're really doing?
 
 ## 2026-10-23 | Fri | Industry: Industry opinion
-WRITE FRESH THAT MORNING: one recent Ontario or Canadian manufacturing, logistics or jobs news item, with a short opinion from an operations leader's view. Name the source. 600-1,000 characters. End with a question.
+WRITE FRESH THAT MORNING: one recent national or global leadership, workplace, manufacturing or supply chain news item (no local or regional stories, no city or province names), with a short opinion from an operations leader's view. Name the source. 600-1,000 characters. End with a question.
 
 ## 2026-10-26 | Mon | Leadership: Trust is built small
 Trust isn't built with big speeches. It's built with small promises kept.
@@ -175,7 +176,7 @@ What's one small thing a leader did that made you trust them?
 ## 2026-10-27 | Tue | Career: Certifications vs experience
 Are certifications worth it in operations? My honest take: yes, but they don't replace results.
 
-Lean, a Six Sigma Green Belt, a JHSC certification, a CITT or APICS designation. They show up in most Operations Manager postings in Ontario for a reason. They give you a shared language, and they get your resume past the first filter.
+Lean, a Six Sigma Green Belt, a JHSC certification, a CITT or APICS designation. They show up in most Operations Manager postings for a reason. They give you a shared language, and they get your resume past the first filter.
 
 But hiring managers still ask the same question in the interview: what did you actually change, and what happened?
 
@@ -203,7 +204,7 @@ If you want to grow, find someone two levels above where you are now and learn h
 
 Your direct boss is focused on this week. Someone two levels up is thinking about next year. They see why decisions get made, and that's exactly the view you're missing.
 
-You don't need a formal program. Ask for 20 minutes over a Tim Hortons coffee. Come with 2 specific questions. "How did you make the jump to manager?" "What do you wish supervisors understood about your job?"
+You don't need a formal program. Ask for 20 minutes over a coffee. Come with 2 specific questions. "How did you make the jump to manager?" "What do you wish supervisors understood about your job?"
 
 Then follow up 30 days later and tell them what you did with their advice, because that one email is what turns a single coffee into a mentor who keeps taking your calls for years.
 
@@ -212,7 +213,7 @@ Most experienced leaders like being asked. Someone did it for them once.
 Who's been the most useful mentor in your career?
 
 ## 2026-10-30 | Fri | Industry: Industry opinion
-WRITE FRESH THAT MORNING: one recent Ontario or Canadian manufacturing, logistics or jobs news item, with a short opinion from an operations leader's view. Name the source. 600-1,000 characters. End with a question.
+WRITE FRESH THAT MORNING: one recent national or global leadership, workplace, manufacturing or supply chain news item (no local or regional stories, no city or province names), with a short opinion from an operations leader's view. Name the source. 600-1,000 characters. End with a question.
 
 ## 2026-11-02 | Mon | Leadership: Leading experienced people
 One of the toughest spots for a new leader: managing people who've been doing the job longer than you.
@@ -266,11 +267,11 @@ Not in the 45-minute interview. Not on your 2-page resume. In what people say ab
 
 The people who move up tend to be the ones who are already doing a bit of the next job. They solve problems before they're asked. They make their boss's life easier. They develop the people under them.
 
-So when a manager role opens in Brantford, Cambridge or Hamilton, they're the obvious name. Sometimes 2 weeks before the job is even posted on Indeed.
+So when a manager role opens, they're the obvious name. Sometimes 2 weeks before the job is even posted on Indeed.
 
 If you're aiming higher, ask yourself every Friday: what did I do this week that someone a level up would have done?
 
 What's one thing you're doing now to get ready for your next role?
 
 ## 2026-11-06 | Fri | Industry: Industry opinion
-WRITE FRESH THAT MORNING: one recent Ontario or Canadian manufacturing, logistics or jobs news item, with a short opinion from an operations leader's view. Name the source. 600-1,000 characters. End with a question.
+WRITE FRESH THAT MORNING: one recent national or global leadership, workplace, manufacturing or supply chain news item (no local or regional stories, no city or province names), with a short opinion from an operations leader's view. Name the source. 600-1,000 characters. End with a question.
