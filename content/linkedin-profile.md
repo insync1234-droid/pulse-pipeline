@@ -6,29 +6,25 @@ LinkedIn does not let any app edit your profile. Paste each block in yourself.
 
 ## 1. Headline (paste first)
 
-Operations Supervisor | I build teams that hit safety, quality and delivery targets | Ready for an Operations Manager role
+Operations Leader | I run teams on safety, quality, cost and delivery | Next step: Operations Manager
 
 ## 2. About
 
-I build teams that hit their targets and keep their people. My next step is an Operations Manager role where I own the results for the whole operation.
+You need someone who can run the whole operation, not one piece of it. That's the job I'm ready for.
 
-If you're hiring for that role, here is what you get.
+I manage to five numbers: safety, quality, cost, delivery and people. I check all five every day. When one slips, my team hears about it the same day, along with the plan to fix it.
 
-I set clear targets and check them every day. People know what good looks like and where they stand.
+Problems that come back twice don't get patched a third time. I find the cause and change the process.
 
-I fix problems at the root. If the same issue shows up twice, I find out why and change the process, not just the person.
+I coach. New leads get feedback early and in private, while it's still a 5-minute talk instead of a 50-minute meeting with HR.
 
-I develop people. I coach new leads and give feedback early, while it's still a small conversation.
+And I don't trade safety for output. Ever.
 
-Safety comes first. No number is worth an injury.
-
-I report in numbers. KPIs, cost and on-time delivery, not opinions.
-
-I'm looking for an Operations Manager or Production Manager role. Send me a message here.
+What I'm looking for: a full-time Operations Manager or Production Manager role. Message me here.
 
 ## 3. Skills (top 5, in this order)
 
-Operations Management, People Leadership, KPI Tracking, Continuous Improvement, Health and Safety
+Operations Management, People Leadership, KPI Management, Root Cause Analysis, Health and Safety
 
 ## 4. Open to Work (private setting)
 
@@ -42,7 +38,7 @@ Pin the Oct 8 post on respect.
 
 ## 6. Current role (Experience)
 
-Title: Operations Supervisor
+Title: keep your real title (Operations Supervisor)
 Description: one line of scope, then two or three results with numbers. Needs Claroy's real facts:
 - Team size you lead
 - One result with a number (cost, overtime, safety, on-time, turnover)
