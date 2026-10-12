@@ -2,15 +2,15 @@
 
 Goal: get hiring managers to come to Claroy for an Operations Manager role in the $90K-$110K range.
 No place names: never mention where Claroy lives or works (Claroy, Oct 12).
-Topics (chosen by Claroy, Oct 8): Leadership & people, Career & growth, Industry news & opinion. No warehouse, inventory or shift-tip posts. No 'open to work' post.
+Topics (chosen by Claroy, Oct 8): Leadership & people, Career & growth, Industry news & opinion. No warehouse, inventory or shift-tip posts, and no shop-floor, truck, shift, crew or line references that hint at where Claroy works. No 'open to work' post.
 All posts are opinion or advice. Examples are hypothetical. Industry posts (Fridays) are written fresh that morning from that week's real industry news (leadership, workplace, manufacturing, supply chain or the job market), never local to where Claroy lives or works, with the source checked and named, run through li-human (70+).
 
 ## 2026-10-08 | Thu | Leadership: Respect is earned on bad days | POSTED urn:li:share:7513949560424148992
 Your team doesn't decide whether to respect you on a good day. They decide on a bad one.
 
-When the plan falls apart at 10 a.m. on a Tuesday, with 2 people out and a truck at the door, all 30 people on the floor watch the person in charge. Do you blame? Do you disappear into the office? Or do you stay calm, tell people the truth and help fix it?
+When the plan falls apart at 10 a.m. on a Tuesday, with 2 people out and a deadline at noon, all 30 people on the team watch the person in charge. Do you blame? Do you disappear into the office? Or do you stay calm, tell people the truth and help fix it?
 
-That 1 moment teaches the crew more about you than 52 weeks of meetings. Every time.
+That 1 moment teaches the team more about you than 52 weeks of meetings. Every time.
 
 I think respect comes down to 3 things people see over and over:
 
@@ -28,9 +28,9 @@ WRITE FRESH THAT MORNING: one recent national or global leadership, workplace, m
 ## 2026-10-12 | Mon | Career: Supervisor vs manager
 The jump from supervisor to manager isn't a bigger version of the same job. Different job.
 
-A supervisor wins the shift. A manager wins the quarter.
+A supervisor wins the day. A manager wins the quarter.
 
-As a supervisor, you're measured on today, on the 8 hours between 7 and 3: did we hit the target, was everyone safe, did the trucks go out. As a manager, you're measured on things you can't see by 3 p.m. Is the $2 million budget holding? Are your supervisors getting better? Will this team still be strong in 12 months?
+As a supervisor, you're measured on today, on the next 8 hours: did we hit the target, was everyone safe, did the work go out on time. As a manager, you're measured on things you can't see by 3 p.m. Is the $2 million budget holding? Are your supervisors getting better? Will this team still be strong in 12 months?
 
 The hardest part is letting go of being the one who fixes everything. If you're still the hero every day, you're doing your old job.
 
@@ -47,7 +47,7 @@ Accountability sounds like: "What happened, and what do we do now?" People hear 
 
 Same standard. Very different result.
 
-I'd rather have a crew that tells me about a mistake in 5 minutes than one that hides it for 5 days. The first one gets fixed. The second one gets expensive.
+I'd rather have a team that tells me about a mistake in 5 minutes than one that hides it for 5 days. The first one gets fixed. The second one gets expensive.
 
 High standards and a safe place to admit mistakes can live together. In my view, the best teams have both.
 
@@ -56,7 +56,7 @@ Which one does your workplace run on?
 ## 2026-10-14 | Wed | Career: What got you here
 The skills that got you promoted are rarely the skills that keep you growing.
 
-Most people get their first leadership role because they were great at the work itself, often after 3 to 5 years on the floor. Fastest. Most accurate. First in at 6:30.
+Most people get their first leadership role because they were great at the work itself, often after 3 to 5 years doing the job. Fastest. Most accurate. First in at 6:30.
 
 Then on Monday morning, the job changes. Now the work is people. Planning. Saying no. Explaining the "why" to a room that doesn't want to hear it. Reading a budget.
 
@@ -78,7 +78,7 @@ Waiting feels kind. It's not, and after 3 or 4 weeks of silence it turns into so
 Here's what I've found works.
 
 1. Have it early, while it's still small.
-2. Have it in private. Never in front of the crew.
+2. Have it in private. Never in front of the team.
 3. Be specific. "You were 20 minutes late Monday and Wednesday," not "your attitude."
 4. End with what good looks like and when you'll check in.
 
@@ -92,7 +92,7 @@ WRITE FRESH THAT MORNING: one recent national or global leadership, workplace, m
 ## 2026-10-19 | Mon | Leadership: Listening
 The people doing the work usually know the problem 2 or 3 weeks before management does.
 
-They know Line 2 is about to give out. Which process makes no sense. Which customer order is going to be late. They just don't always get asked, because the morning meeting runs long, the manager is buried in email and nobody walks the floor at 2 p.m. to find out.
+They know which process is about to break. Which process makes no sense. Which customer order is going to be late. They just don't always get asked, because the morning meeting runs long, the manager is buried in email and nobody walks over at 2 p.m. to ask.
 
 Listening is a leadership skill. Underrated.
 
@@ -130,7 +130,7 @@ Which number do you wish you understood better?
 ## 2026-10-21 | Wed | Leadership: Same rules for everyone
 Nothing kills a team faster than rules that only apply to some people.
 
-If your friend of 8 years gets a pass for being late on Monday and the new guy gets written up on Tuesday, all 25 people on the crew notice. Usually by lunch.
+If your friend of 8 years gets a pass for being late on Monday and the new guy gets written up on Tuesday, all 25 people on the team notice. Usually by lunch.
 
 Consistency is boring. Very. It's also one of the strongest things a leader can offer. People can handle tough rules. What they can't handle is not knowing which rules apply to them today.
 
@@ -189,7 +189,7 @@ Which certification has helped your career most?
 ## 2026-10-28 | Wed | Leadership: Give credit, take blame
 Good leaders pass credit down and take blame up.
 
-When the team hits a record week, the credit goes to the people who did it, by name. Maria on receiving. The 3 people who stayed late on Thursday. Said out loud in the Monday meeting, in front of the managers above you.
+When the team hits a record week, the credit goes to the people who did it, by name. Maria on the project team. The 3 people who stayed late on Thursday. Said out loud in the Monday meeting, in front of the managers above you.
 
 When something goes wrong, the leader stands up first. "That's on me. Here's what we're changing." Then you sort out the details privately.
 
@@ -222,13 +222,13 @@ The worst move is pretending you know more than they do. They'll see through it 
 
 What works better:
 
-Ask for their knowledge, openly, in week 1. "You've run this line for 12 years. What's the 1 thing you'd change?"
+Ask for their knowledge, openly, in week 1. "You've done this job for 12 years. What's the 1 thing you'd change?"
 
 Be clear about your job. Not theirs. Not to out-skill them, but to clear the path, make decisions and keep the team fair.
 
 Don't avoid the hard calls just because they're senior. Respect their experience and still hold the standard.
 
-Experienced people, the ones with 15 or 20 years on the floor, don't need a leader who knows everything. They need one who listens, decides and backs them up.
+Experienced people, the ones with 15 or 20 years in the job, don't need a leader who knows everything. They need one who listens, decides and backs them up.
 
 Have you ever led people with more experience than you?
 
@@ -250,7 +250,7 @@ What's the best interview question you've ever been asked?
 ## 2026-11-04 | Wed | Leadership: Calm is contagious
 Calm is contagious. So is panic.
 
-When something big goes wrong at 2 p.m., all 40 people on the floor read the leader's face before they hear a word. If you're rushing around, raising your voice, snapping at people, the whole floor speeds up and starts making mistakes.
+When something big goes wrong at 2 p.m., all 40 people on the team read the leader's face before they hear a word. If you're rushing around, raising your voice, snapping at people, the whole team speeds up and starts making mistakes.
 
 If you slow down, ask 2 good questions and give 3 clear instructions, the panic drains out of the room in about 5 minutes.
 
