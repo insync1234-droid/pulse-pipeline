@@ -29,7 +29,7 @@ The jump from supervisor to manager isn't a bigger version of the same job. Diff
 
 A supervisor wins the shift. A manager wins the quarter.
 
-As a supervisor in Brantford or Hamilton or anywhere else, you're measured on today, on the 8 hours between 7 and 3: did we hit the target, was everyone safe, did the trucks go out. As a manager, you're measured on things you can't see by 3 p.m. Is the  million budget holding? Are your supervisors getting better? Will this team still be strong in 12 months?
+As a supervisor in Brantford or Hamilton or anywhere else, you're measured on today, on the 8 hours between 7 and 3: did we hit the target, was everyone safe, did the trucks go out. As a manager, you're measured on things you can't see by 3 p.m. Is the $2 million budget holding? Are your supervisors getting better? Will this team still be strong in 12 months?
 
 The hardest part is letting go of being the one who fixes everything. If you're still the hero every day, you're doing your old job.
 
