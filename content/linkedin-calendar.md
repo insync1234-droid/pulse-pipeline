@@ -53,7 +53,7 @@ High standards and a safe place to admit mistakes can live together. In my view,
 
 Which one does your workplace run on?
 
-## 2026-10-14 | Wed | Career: What got you here
+## 2026-10-14 | Wed | Career: What got you here | POSTED urn:li:share:7516195932602818560
 The skills that got you promoted are rarely the skills that keep you growing.
 
 Most people get their first leadership role because they were great at the work itself, often after 3 to 5 years doing the job. Fastest. Most accurate. First to raise a hand.
