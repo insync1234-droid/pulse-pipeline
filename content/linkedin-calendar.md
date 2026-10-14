@@ -56,7 +56,7 @@ Which one does your workplace run on?
 ## 2026-10-14 | Wed | Career: What got you here
 The skills that got you promoted are rarely the skills that keep you growing.
 
-Most people get their first leadership role because they were great at the work itself, often after 3 to 5 years doing the job. Fastest. Most accurate. First in at 6:30.
+Most people get their first leadership role because they were great at the work itself, often after 3 to 5 years doing the job. Fastest. Most accurate. First to raise a hand.
 
 Then on Monday morning, the job changes. Now the work is people. Planning. Saying no. Explaining the "why" to a room that doesn't want to hear it. Reading a budget.
 
