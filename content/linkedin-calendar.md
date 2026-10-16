@@ -86,8 +86,24 @@ Most people respond well to clear and respectful. Almost nobody responds well to
 
 What's the hardest conversation you've had to have at work?
 
-## 2026-10-16 | Fri | Industry: Industry opinion
-WRITE FRESH THAT MORNING: one recent national or global leadership, workplace, manufacturing or supply chain news item (no local or regional stories, no city or province names), with a short opinion from an operations leader's view. Name the source. 600-1,000 characters. End with a question.
+## 2026-10-16 | Fri | Industry: Build talent, don't just buy it (McKinsey, Oct 11)
+McKinsey published new research this week on where U.S. jobs are heading by 2035. One line stopped me cold.
+
+"A company laying off administrative staff in one division while posting project-coordinator openings in another has created its own talent shortage."
+
+I'd call that a leadership problem.
+
+The report says more than 70% of workers will need new skills even if they never change employers. Postings asking for adaptability are up fivefold since 2022.
+
+So the people you need next year might already be on your team. You just haven't trained them yet.
+
+I don't think good leaders wait for HR to fix this. Cross-train your people. Let them shadow the role above them. And when a stretch project comes up, give it to the person who's ready, even if their title says they're not.
+
+Building talent costs less than buying it.
+
+Source: McKinsey Global Institute, via Fortune (Oct 11).
+
+Are you building your next team, or waiting to hire it?
 
 ## 2026-10-19 | Mon | Leadership: Listening
 The people doing the work usually know the problem 2 or 3 weeks before management does.
