@@ -68,7 +68,7 @@ Growth is mostly uncomfortable, and I don't think anyone who's moved up 2 or 3 l
 
 What skill are you working on right now?
 
-## 2026-10-15 | Thu | Leadership: Hard conversations
+## 2026-10-15 | Thu | Leadership: Hard conversations | POSTED urn:li:share:7516794739778555904
 The hard conversation you're avoiding is getting harder every day you wait.
 
 Someone's late again. Someone's attitude is dragging the team. Someone isn't pulling their weight, and everybody else has noticed.
