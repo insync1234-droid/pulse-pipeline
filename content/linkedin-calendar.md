@@ -108,7 +108,7 @@ Are you building your next team, or waiting to hire it?
 ## 2026-10-19 | Mon | Leadership: Listening
 The people doing the work usually know the problem 2 or 3 weeks before management does.
 
-They know which process is about to break. Which process makes no sense. Which customer order is going to be late. They just don't always get asked, because the morning meeting runs long, the manager is buried in email and nobody walks over at 2 p.m. to ask.
+They know which deadline is about to slip. Which process makes no sense. Which customer order is going to be late. They just don't always get asked, because the morning meeting runs long, the manager is buried in email and nobody walks over at 2 p.m. to ask.
 
 Listening is a leadership skill. Underrated.
 
@@ -120,7 +120,7 @@ Write down what you hear, so people know it didn't disappear.
 
 Come back within 7 days with an answer, even if the answer is "not yet, and here's why."
 
-When people see their ideas go somewhere, they keep bringing them. When they don't, they stop. And you lose the best source of information in the building.
+When people see their ideas go somewhere, they keep bringing them. When they don't, they stop. And you lose the best source of information on your team.
 
 When was the last time someone at work really listened to you?
 
