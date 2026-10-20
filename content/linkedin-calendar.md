@@ -5,6 +5,8 @@ No place names: never mention where Claroy lives or works (Claroy, Oct 12).
 Topics (chosen by Claroy, Oct 8): Leadership & people, Career & growth, Industry news & opinion. No warehouse, inventory or shift-tip posts, and no shop-floor, truck, shift, crew or line references that hint at where Claroy works. No 'open to work' post.
 All posts are opinion or advice. Examples are hypothetical. Industry posts (Fridays) are written fresh that morning from that week's real industry news (leadership, workplace, manufacturing, supply chain or the job market), never local to where Claroy lives or works, with the source checked and named, run through li-human (70+).
 
+Human score must be 100 on the li-human detect check (Claroy, Oct 20).
+
 ## 2026-10-08 | Thu | Leadership: Respect is earned on bad days | POSTED urn:li:share:7513949560424148992
 Your team doesn't decide whether to respect you on a good day. They decide on a bad one.
 
@@ -125,23 +127,23 @@ When people see their ideas go somewhere, they keep bringing them. When they don
 When was the last time someone at work really listened to you?
 
 ## 2026-10-20 | Tue | Career: Learn the numbers
-If you want to move into management, learn the numbers. Nobody will hand them to you.
+If you want to move into management, learn the numbers. Nobody's going to hand them to you.
 
-Most frontline leaders know their output and their safety record by heart. Fewer know what their department costs to run, or how their labour hours compare to budget.
+Most of us know our output and our safety record by heart, but if you ask us what our department costs to run each month, or how our labour hours stack up against the budget we were given in January, we go quiet.
 
-That's the gap between supervisor and manager in a lot of interviews.
+That's the gap.
 
-Three numbers worth understanding in any operation:
+I'd learn 3 numbers first:
 
-1. Labour cost per unit, or per order.
-2. Overtime as a percentage of total hours.
-3. Your department's budget versus actual, every month.
+1. Labour cost per unit or per order.
+2. Overtime as a % of total hours.
+3. Budget vs. actual, every month.
 
-Say overtime runs at 8% of hours on a team of 20. Getting it to 5% is the kind of result a hiring manager remembers.
+Say your overtime runs at 8% of hours on a team of 20. You get it to 5% by March. That's the result a hiring manager remembers.
 
-You don't need a finance degree, and you don't need to love spreadsheets, but you do need to sit down with someone who reads these reports every month. Ask your manager for 30 minutes to walk through the September report. Ask what they watch and why.
+You don't need a degree. You don't need to love Excel either. Ask your manager for 30 minutes on Monday and walk through the September report together. Ask what they watch, and why.
 
-The day you can talk about results in dollars, people start seeing you differently.
+It works.
 
 Which number do you wish you understood better?
 
