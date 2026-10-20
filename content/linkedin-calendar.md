@@ -7,6 +7,8 @@ All posts are opinion or advice. Examples are hypothetical. Industry posts (Frid
 
 Human score must be 100 on the li-human detect check (Claroy, Oct 20).
 
+Voice: write as an operations leader (results, cost, quality, delivery, fixing problems). Not HR advice: no turnover, hiring, retention or wellbeing angles (Claroy, Oct 20).
+
 ## 2026-10-08 | Thu | Leadership: Respect is earned on bad days | POSTED urn:li:share:7513949560424148992
 Your team doesn't decide whether to respect you on a good day. They decide on a bad one.
 
@@ -129,7 +131,7 @@ When was the last time someone at work really listened to you?
 ## 2026-10-20 | Tue | Career: Solve your boss's problem
 Want to get promoted? Find out what keeps your boss up at night.
 
-Most of us show up, do the job well and wait for someone to notice, and I get it, but managers don't promote the people who do their own job best, they promote the people who make their job easier.
+Most of us show up, hit our numbers and wait for someone to notice, and I get it, but managers don't promote the people who do their own job best, they promote the people who take problems off their plate.
 
 So ask.
 
@@ -137,7 +139,7 @@ At your next 1-on-1 on Monday, try this: "What are the 2 or 3 things you're most
 
 Then pick one.
 
-Say it's turnover. You've lost 4 people since June and Q4 hasn't even started, and you don't need a title to help with that, so talk to the 2 newest people on the team every week, find out what's not working before they quit, and bring your boss what you heard by Friday.
+Say it's rework. The team redid 12% of its work last month and the cost is climbing every week, and you don't need a title to go after that, so track every redo for 2 weeks, find the 1 or 2 causes behind most of them, and bring your boss a fix by Friday.
 
 You're not doing their job. You're showing them you can.
 
