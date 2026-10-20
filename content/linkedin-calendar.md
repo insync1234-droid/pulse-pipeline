@@ -126,26 +126,24 @@ When people see their ideas go somewhere, they keep bringing them. When they don
 
 When was the last time someone at work really listened to you?
 
-## 2026-10-20 | Tue | Career: Learn the numbers
-If you want to move into management, learn the numbers. Nobody's going to hand them to you.
+## 2026-10-20 | Tue | Career: Solve your boss's problem
+Want to get promoted? Find out what keeps your boss up at night.
 
-Most of us know our output and our safety record by heart, but if you ask us what our department costs to run each month, or how our labour hours stack up against the budget we were given in January, we go quiet.
+Most of us show up, do the job well and wait for someone to notice, and I get it, but managers don't promote the people who do their own job best, they promote the people who make their job easier.
 
-That's the gap.
+So ask.
 
-I'd learn 3 numbers first:
+At your next 1-on-1 on Monday, try this: "What are the 2 or 3 things you're most worried about this quarter?"
 
-1. Labour cost per unit or per order.
-2. Overtime as a % of total hours.
-3. Budget vs. actual, every month.
+Then pick one.
 
-Say your overtime runs at 8% of hours on a team of 20. You get it to 5% by March. That's the result a hiring manager remembers.
+Say it's turnover. You've lost 4 people since June and Q4 hasn't even started, and you don't need a title to help with that, so talk to the 2 newest people on the team every week, find out what's not working before they quit, and bring your boss what you heard by Friday.
 
-You don't need a degree. You don't need to love Excel either. Ask your manager for 30 minutes on Monday and walk through the September report together. Ask what they watch, and why.
+You're not doing their job. You're showing them you can.
 
-It works.
+That's what a manager looks like before they're a manager.
 
-Which number do you wish you understood better?
+What's your boss worried about right now? Do you know?
 
 ## 2026-10-21 | Wed | Leadership: Same rules for everyone
 Nothing kills a team faster than rules that only apply to some people.
