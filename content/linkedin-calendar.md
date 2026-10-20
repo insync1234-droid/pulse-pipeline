@@ -137,6 +137,8 @@ Three numbers worth understanding in any operation:
 2. Overtime as a percentage of total hours.
 3. Your department's budget versus actual, every month.
 
+Say overtime runs at 8% of hours on a team of 20. Getting it to 5% is the kind of result a hiring manager remembers.
+
 You don't need a finance degree, and you don't need to love spreadsheets, but you do need to sit down with someone who reads these reports every month. Ask your manager for 30 minutes to walk through the September report. Ask what they watch and why.
 
 The day you can talk about results in dollars, people start seeing you differently.
