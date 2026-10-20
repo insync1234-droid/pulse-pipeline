@@ -128,7 +128,7 @@ When people see their ideas go somewhere, they keep bringing them. When they don
 
 When was the last time someone at work really listened to you?
 
-## 2026-10-20 | Tue | Career: Solve your boss's problem
+## 2026-10-20 | Tue | Career: Solve your boss's problem | POSTED urn:li:share:7518352686879059968
 Want to get promoted? Find out what keeps your boss up at night.
 
 Most of us show up, hit our numbers and wait for someone to notice, and I get it, but managers don't promote the people who do their own job best, they promote the people who take problems off their plate.
