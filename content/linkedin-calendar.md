@@ -147,7 +147,7 @@ That's what a manager looks like before they're a manager.
 
 What's your boss worried about right now? Do you know?
 
-## 2026-10-21 | Wed | Leadership: One standard for everyone
+## 2026-10-21 | Wed | Leadership: One standard for everyone | POSTED urn:li:share:7518758181154709504
 Nothing kills a team's results faster than standards that only apply to some people.
 
 Say your best performer skips the quality check on Monday and you let it go. On Tuesday a newer person does the same thing and you call them out in front of everyone. All 25 people on your team notice. By 12:30.
