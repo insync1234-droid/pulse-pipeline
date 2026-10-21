@@ -147,18 +147,22 @@ That's what a manager looks like before they're a manager.
 
 What's your boss worried about right now? Do you know?
 
-## 2026-10-21 | Wed | Leadership: Same rules for everyone
-Nothing kills a team faster than rules that only apply to some people.
+## 2026-10-21 | Wed | Leadership: One standard for everyone
+Nothing kills a team's results faster than standards that only apply to some people.
 
-If your friend of 8 years gets a pass for being late on Monday and the new guy gets written up on Tuesday, all 25 people on the team notice. Usually by lunch.
+Say your best performer skips the quality check on Monday and you let it go. On Tuesday a newer person does the same thing and you call them out in front of everyone. All 25 people on your team notice. By 12:30.
 
-Consistency is boring. Very. It's also one of the strongest things a leader can offer. People can handle tough rules. What they can't handle is not knowing which rules apply to them today.
+Now we've got 2 standards, not 1. And the work follows the lower one.
 
-A simple test I'd use, at 7 a.m. or 7 p.m.: would I make the same call if it were someone I don't get along with? If the answer is no, the call is wrong.
+I'd use 1 test before every call: would I make the same decision if it were the person I trust least? If my answer's no, it's the wrong call.
 
-Fair isn't the same as soft. It just means the standard doesn't change with the person.
+I know consistency is boring. It works anyway.
 
-Have you ever worked somewhere with two sets of rules?
+You can hand people a tough standard and they'll meet it, but what they can't handle is guessing which standard applies to them today, and once that guessing starts, you'll see it in rework, missed deadlines and cost within 30 days, and in your Q4 numbers by December.
+
+Fair isn't soft. It just means the bar doesn't move with the person.
+
+Have you ever worked somewhere with 2 sets of rules?
 
 ## 2026-10-22 | Thu | Career: Ask for feedback early
 Don't wait for your annual review to find out how you're doing.
