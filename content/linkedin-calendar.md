@@ -167,15 +167,17 @@ Have you ever worked somewhere with 2 sets of rules?
 ## 2026-10-22 | Thu | Career: Ask for feedback early
 Don't wait for your annual review to find out how you're doing.
 
-By then it's a report card, written in November about things that happened in March, and you can't change a single line of it.
+By then it's a report card. It's written in December about a problem from March, and you can't fix a single thing on it.
 
-Ask your manager directly, every 6 to 8 weeks: "What's one thing I should do more of, and one thing I should stop?"
+So I'd ask early. Every 6 weeks, ask your manager 2 questions: "What's 1 thing I should do more of? And 1 thing I should stop?"
 
-2 questions. 5 minutes. That's it. Most managers respect it, and many have been waiting for someone to ask.
+5 minutes. That's it.
 
-Then act on the answer, and mention it next time. "You said I should delegate more. I handed the schedule to Sam this month." That's how you show you're ready for more responsibility.
+Say your boss tells you on a Monday in Q3 that your weekly cost report lands late and nobody trusts the numbers, and you fix the source data, move the report to Friday, and walk in 6 weeks later saying "you flagged the report, here's what I changed and here's what it saves us", which is exactly the moment you stop being the person who runs a team and start being the person they'd trust with a bigger one.
 
-People who ask for feedback grow faster. And they're the first names that come up when a new role opens.
+That's the whole point.
+
+Feedback in October is a fix. Feedback in December is a grade.
 
 When did you last ask your boss how you're really doing?
 
