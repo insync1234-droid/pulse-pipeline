@@ -213,15 +213,17 @@ A certificate on its own is a line on a resume. A certificate plus a result is a
 Which certification has helped your career most?
 
 ## 2026-10-28 | Wed | Leadership: Give credit, take blame
-Good leaders pass credit down and take blame up.
+Pass credit down. Take blame up.
 
-When the team hits a record week, the credit goes to the people who did it, by name. Maria on the project team. The 3 people who stayed late on Thursday. Said out loud in the Monday meeting, in front of the managers above you.
+Say your team cuts rework from 9% to 4% in Q3. Don't say "we improved quality" in the Monday review. Name the 2 people who found the root cause, and tell your boss what they changed.
 
-When something goes wrong, the leader stands up first. "That's on me. Here's what we're changing." Then you sort out the details privately.
+Now say a big order ships 3 days late in November.
 
-Sounds simple. It's not, especially at 4:45 on a Friday when your own boss is frustrated.
+You stand up first. "That's on me. Here's the fix, and here's the date it's done." Then you sort out the details with the team in private, where it's a problem to solve and not a public trial, because the moment you hand your people over to blame in front of senior leaders, you've taught every one of them to hide the next problem until it's too late and too expensive to fix.
 
-But people remember who protected them and who didn't. They'll work 2 times as hard for the first kind.
+Hidden problems cost more. Every time.
+
+I know it's hard at 4:45 on a Friday when your own boss is frustrated. You do it anyway, and so do I.
 
 Have you worked for someone who did this well?
 
