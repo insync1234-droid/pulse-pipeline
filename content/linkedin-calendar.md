@@ -223,7 +223,7 @@ You stand up first. "That's on me. Here's the fix, and here's the date it's done
 
 Hidden problems cost more. Every time.
 
-I know it's hard at 4:45 on a Friday when your own boss is frustrated. You do it anyway, and so do I.
+I know it's hard at 4:45 on a Friday when your own boss is frustrated. You do it anyway, because your team's watching what you do.
 
 Have you worked for someone who did this well?
 
