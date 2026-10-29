@@ -228,15 +228,17 @@ I know it's hard at 4:45 on a Friday when your own boss is frustrated. You do it
 Have you worked for someone who did this well?
 
 ## 2026-10-29 | Thu | Career: Find a mentor two levels up
-If you want to grow, find someone two levels above where you are now and learn how they think.
+Want to grow faster? Find someone 2 levels above you and learn how they think.
 
-Your direct boss is focused on this week. Someone two levels up is thinking about next year. They see why decisions get made, and that's exactly the view you're missing.
+Your boss is focused on this week's numbers. Someone 2 levels up is thinking about next year's budget, and that's the view you're missing.
 
-You don't need a formal program. Ask for 20 minutes over a coffee. Come with 2 specific questions. "How did you make the jump to manager?" "What do you wish supervisors understood about your job?"
+You don't need a formal program. Ask for 20 minutes on a Tuesday. Bring 2 questions: "How do you decide where the money goes in Q1?" and "What do you wish managers understood about your job?"
 
-Then follow up 30 days later and tell them what you did with their advice, because that one email is what turns a single coffee into a mentor who keeps taking your calls for years.
+Then do something with the answer within 1 week.
 
-Most experienced leaders like being asked. Someone did it for them once.
+Say they tell you they cut projects that can't show a cost saving in 90 days, so you go back to your team, put a dollar figure on the rework fix you've been pushing since August, and send them a short note 30 days later, in October or November, saying what you changed and what it saved, which is the one email that turns a single coffee into a mentor who keeps taking your calls.
+
+Most senior leaders like being asked. I'd bet someone did it for them once.
 
 Who's been the most useful mentor in your career?
 
