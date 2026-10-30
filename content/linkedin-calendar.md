@@ -242,8 +242,22 @@ Most senior leaders like being asked. I'd bet someone did it for them once.
 
 Who's been the most useful mentor in your career?
 
-## 2026-10-30 | Fri | Industry: Industry opinion
-WRITE FRESH THAT MORNING: one recent national or global leadership, workplace, manufacturing or supply chain news item (no local or regional stories, no city or province names), with a short opinion from an operations leader's view. Name the source. 600-1,000 characters. End with a question.
+## 2026-10-30 | Fri | Industry: Fix the process before you automate it (CNBC, Oct 23)
+American Express CFO Christophe Le Caillec told CNBC on October 23: "You don't want to automate processes that are not optimally structured."
+
+I think he's right. Banks aren't the only ones with this problem. We all have it.
+
+Say your team has a 6-step approval that should be 2 steps, and you put AI on top of it, so now you've got a bad process that runs 10 times faster and makes the same mistakes at scale, and nobody can see them until the cost shows up in Q1.
+
+Fix the process first. Then you automate it.
+
+I'd ask 3 questions before any new tool goes in. What's the real output? Which steps don't add to it? Who on our team owns the result when it breaks?
+
+Amex is taking a $336 million charge to restructure before it automates. You don't need that budget to learn the lesson.
+
+What's 1 process on your team you'd fix before you'd automate it?
+
+Source: https://www.cnbc.com/2026/10/23/american-express-job-cuts.html
 
 ## 2026-11-02 | Mon | Leadership: Leading experienced people
 One of the toughest spots for a new leader: managing people who've been doing the job longer than you.
