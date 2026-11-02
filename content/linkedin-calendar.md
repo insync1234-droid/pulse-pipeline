@@ -260,19 +260,21 @@ What's 1 process on your team you'd fix before you'd automate it?
 Source: https://www.cnbc.com/2026/10/23/american-express-job-cuts.html
 
 ## 2026-11-02 | Mon | Leadership: Leading experienced people
-One of the toughest spots for a new leader: managing people who've been doing the job longer than you.
+Leading people who've done the job longer than you is one of the hardest calls in operations.
 
-The worst move is pretending you know more than they do. They'll see through it in a day.
+Don't fake it. I mean it.
 
-What works better:
+They'll see through you by Tuesday, and once they do, you've lost the room for months.
 
-Ask for their knowledge, openly, in week 1. "You've done this job for 12 years. What's the 1 thing you'd change?"
+Say you take over a team where 3 people have 15+ years on the work. On Monday of week 1, ask each of them the same question: "What's the 1 thing that costs us the most time or money, and why hasn't it been fixed?" Then pick the answer that shows up twice, fix it in 30 days, and tell them what you changed, because that's the moment they stop testing you and start backing you.
 
-Be clear about your job. Not theirs. Not to out-skill them, but to clear the path, make decisions and keep the team fair.
+Your job isn't to out-skill them. It's to clear the path, make the call and keep the standard the same for everyone.
 
-Don't avoid the hard calls just because they're senior. Respect their experience and still hold the standard.
+We all know the hard calls are the test. If a senior person skips the quality check, you still address it. Respect their experience. You still hold the line.
 
-Experienced people, the ones with 15 or 20 years in the job, don't need a leader who knows everything. They need one who listens, decides and backs them up.
+Listen. Decide. Back them up.
+
+I'd take 1 manager who does those 3 things over 10 who know everything, every quarter, Q1 through Q4.
 
 Have you ever led people with more experience than you?
 
