@@ -296,13 +296,17 @@ What's the best interview question you've ever been asked?
 ## 2026-11-04 | Wed | Leadership: Calm is contagious
 Calm is contagious. So is panic.
 
-When something big goes wrong at 2 p.m., all 40 people on the team read the leader's face before they hear a word. If you're rushing around, raising your voice, snapping at people, the whole team speeds up and starts making mistakes.
+Say a big order is at risk on a Thursday and the customer wants an answer by 9 a.m. Friday. All 12 people on your team read your face before they hear a word. If you're rushing, raising your voice and changing the plan every 10 minutes, they speed up too, and that's when the rework, the missed steps and the expensive mistakes start.
 
-If you slow down, ask 2 good questions and give 3 clear instructions, the panic drains out of the room in about 5 minutes.
+You slow down instead.
 
-You don't have to feel calm. You just have to act calm long enough for the team to settle and do their jobs.
+You ask 2 questions. What's actually late? What do we need to fix it? Then give 3 clear instructions with 1 owner each, and check back in 30 minutes.
 
-It's a skill, and it gets better with practice. Breathe first. Talk second. Every time.
+You don't have to feel calm. You just have to act calm long enough for the team to do the work.
+
+I'd call it a skill, not a personality. We all get better at it with practice.
+
+Breathe first. Talk second. I'd do it in that order, 10 times out of 10.
 
 Who's the calmest leader you've worked with?
 
