@@ -325,3 +325,22 @@ What's one thing you're doing now to get ready for your next role?
 
 ## 2026-11-06 | Fri | Industry: Industry opinion
 WRITE FRESH THAT MORNING: one recent national or global leadership, workplace, manufacturing or supply chain news item (no local or regional stories, no city or province names), with a short opinion from an operations leader's view. Name the source. 600-1,000 characters. End with a question.
+
+## 2026-11-11 | Wed | Leadership: Fix the system, not the person
+Same mistake twice? Stop blaming the person.
+
+Look at the system.
+
+Say an order goes out wrong on a Tuesday in March. You talk to the person who did it, you think it's fixed, and then 3 weeks later it happens again with someone else on your team, which tells you it was never a people problem, it's a process problem, and every talk you give is just a patch on top of it.
+
+I'd ask 3 questions before I blame anyone. What made the mistake easy to make? What made it hard to catch? What stops it on the 3rd try?
+
+The answer's usually boring.
+
+A missing check on Step 4. A confusing form. 2 steps that look the same. You'll often find all 3 in 1 quarter.
+
+Fix that and you don't stop 1 error. You stop the next 10, and you get back the hours your team would've spent cleaning them up, maybe 6 a month or more.
+
+People rise to a good system. They can't rise above a bad one, and you can't coach your way out of it.
+
+What's a repeat problem you finally fixed for good?
