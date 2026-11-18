@@ -344,3 +344,18 @@ Fix that and you don't stop 1 error. You stop the next 10, and you get back the 
 People rise to a good system. They can't rise above a bad one, and you can't coach your way out of it.
 
 What's a repeat problem you finally fixed for good?
+
+## 2026-11-18 | Wed | Career: Learn to read a P&L
+Want the next role up? Learn to read a P&L.
+
+I'd bet most supervisors can tell you their team's output. Far fewer can tell you what it cost.
+
+That's the gap.
+
+Say you walk into a review in Q1 and say "we cut rework." Fine. Now say you walk in and say "we cut rework from 8% to 3%, and that saved us about $40,000 this year." Same work, but the 2nd version is the one a director remembers, because you've shown you think like the person who owns the budget, not just the person who runs the team, and that's exactly the shift every promotion to manager asks you to make.
+
+You don't need an MBA. You need 3 things: what your team costs, what it produces, and where the money leaks.
+
+Ask your finance lead for 30 minutes. Bring 1 question. You'll learn more in that half hour than in a year of guessing.
+
+What's the 1 number you wish you'd learned to track sooner?
