@@ -359,3 +359,21 @@ You don't need an MBA. You need 3 things: what your team costs, what it produces
 Ask your finance lead for 30 minutes. Bring 1 question. You'll learn more in that half hour than in a year of guessing.
 
 What's the 1 number you wish you'd learned to track sooner?
+
+## 2026-11-25 | Wed | Leadership: One owner per problem
+
+Score: 100 (li-human). Status: DRAFT, awaiting "post it".
+
+```
+Every problem needs one name next to it. Not two. One.
+
+Say you run a Monday review with 6 leaders and 9 open issues, and you hear "we're on it" 9 times in a row while everyone nods and moves to the next slide. By Friday, maybe 2 have moved. Why? "We" isn't a person.
+
+Here's what I'd do. Each issue gets 1 owner, 1 next step and 1 date, and you write it down before you leave the room. Nobody wants it? That tells you something too.
+
+Ownership isn't blame. The owner doesn't fix it alone; they just can't let it sit, so they pull you in, they report back to me or to you, and they close it.
+
+It feels slow. I get it. But by week 3 you'll chase fewer updates and spend your time on cost, quality and delivery.
+
+What's one open issue on your list today with no single owner?
+```
